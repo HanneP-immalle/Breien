@@ -50,3 +50,13 @@ article{
     float: left;
     width: 70%;
 }
+h1{
+    font-size: 16pt;
+    font-family: 'Arial';
+    color:pink;
+}
+h3{
+    font-size: 14pt;
+    font-family: 'Calibri';
+    color: plum;
+}
